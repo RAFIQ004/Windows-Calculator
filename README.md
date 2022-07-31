@@ -4,4 +4,4 @@
 
 If you would like try to run the program, please run the "/Windows Calculator/bin/Debug/calc.exe".
 
-Or you can also download the whole package and open in Visual Studio, using the file "/Windows Calculator/Windows Calculator.sln"!
+Or you can also download the whole package and open in Visual Studio using the file "/Windows Calculator/Windows Calculator.sln"!
