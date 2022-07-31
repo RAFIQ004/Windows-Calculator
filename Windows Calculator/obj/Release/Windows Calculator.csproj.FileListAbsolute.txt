@@ -1,0 +1,10 @@
+C:\Users\MURAD\source\repos\Windows Calculator\Windows Calculator\bin\Release\Windows Calculator.exe.config
+C:\Users\MURAD\source\repos\Windows Calculator\Windows Calculator\bin\Release\Windows Calculator.exe
+C:\Users\MURAD\source\repos\Windows Calculator\Windows Calculator\bin\Release\Windows Calculator.pdb
+C:\Users\MURAD\source\repos\Windows Calculator\Windows Calculator\obj\Release\Windows Calculator.csprojAssemblyReference.cache
+C:\Users\MURAD\source\repos\Windows Calculator\Windows Calculator\obj\Release\Windows_Calculator.CalculatorForm.resources
+C:\Users\MURAD\source\repos\Windows Calculator\Windows Calculator\obj\Release\Windows_Calculator.Properties.Resources.resources
+C:\Users\MURAD\source\repos\Windows Calculator\Windows Calculator\obj\Release\Windows Calculator.csproj.GenerateResource.cache
+C:\Users\MURAD\source\repos\Windows Calculator\Windows Calculator\obj\Release\Windows Calculator.csproj.CoreCompileInputs.cache
+C:\Users\MURAD\source\repos\Windows Calculator\Windows Calculator\obj\Release\Windows Calculator.exe
+C:\Users\MURAD\source\repos\Windows Calculator\Windows Calculator\obj\Release\Windows Calculator.pdb
