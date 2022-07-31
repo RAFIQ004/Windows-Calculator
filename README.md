@@ -1,6 +1,6 @@
-# Windows-Calculator
+# Windows Calculator
 
-"Windows-Calculator" is a calculator with a similar design and functionality to an original Windows Calculator.
+"Windows Calculator" is a calculator with a similar design and functionality to an original Windows Calculator.
 
 If you would like try to run the program, please run the "/Windows Calculator/bin/Debug/calc.exe".
 
